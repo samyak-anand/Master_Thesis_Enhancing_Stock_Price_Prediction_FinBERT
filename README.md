@@ -4,7 +4,7 @@
 
 This project was built as part of an M.Sc. Data Science thesis (IU International University of Applied Sciences). It investigates whether fusing financial-domain sentiment — extracted from social media text using **FinBERT** — with structured market data measurably improves stock forecasting over price-only baselines, and whether the resulting models can be made genuinely explainable rather than left as black boxes.
 
-📄 Full write-up: *[Can a Tweet Move a Stock? Inside a Hybrid FinBERT–LSTM Framework for Explainable Market Forecasting](#)* (Medium)
+📄 Full write-up: *[Can a Tweet Move a Stock? Inside a Hybrid FinBERT–LSTM Framework for Explainable Market Forecasting](https://medium.com/@samyak.anand/can-a-tweet-move-a-stock-inside-a-hybrid-finbert-lstm-framework-for-explainable-market-forecasting-b40a57104cad)* (Medium)
 🎓 Thesis: *Enhancing Stock Price Prediction with Sentiment Analysis and Advanced Neural Networks* — Samyak Anand, Supervisor: Dr. Stefan Stöckl
 
 ---
